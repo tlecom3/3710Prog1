@@ -1,0 +1,17 @@
+c:\users\tlecom3\documents\visual studio 2015\Projects\3710Proj1v2\Client\bin\Debug\Client.exe.config
+c:\users\tlecom3\documents\visual studio 2015\Projects\3710Proj1v2\Client\bin\Debug\Client.exe
+c:\users\tlecom3\documents\visual studio 2015\Projects\3710Proj1v2\Client\bin\Debug\Client.pdb
+c:\users\tlecom3\documents\visual studio 2015\Projects\3710Proj1v2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\tlecom3\documents\visual studio 2015\Projects\3710Proj1v2\Client\obj\Debug\Client.exe
+c:\users\tlecom3\documents\visual studio 2015\Projects\3710Proj1v2\Client\obj\Debug\Client.pdb
+C:\Users\tlecom3\documents\visual studio 2015\Projects\3710Proj1v2\Client\obj\Debug\Client.ClientGUI.resources
+C:\Users\tlecom3\documents\visual studio 2015\Projects\3710Proj1v2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\tlecom3\Documents\Visual Studio 2015\Projects\3710Proj1v2\Client\obj\Debug\Client.Form1.resources
+C:\Users\Tjarv\Downloads\3710Proj1v2\Client\bin\Debug\Client.exe.config
+C:\Users\Tjarv\Downloads\3710Proj1v2\Client\obj\Debug\Client.exe
+C:\Users\Tjarv\Downloads\3710Proj1v2\Client\obj\Debug\Client.pdb
+C:\Users\Tjarv\Downloads\3710Proj1v2\Client\bin\Debug\Client.exe
+C:\Users\Tjarv\Downloads\3710Proj1v2\Client\bin\Debug\Client.pdb
+C:\Users\Tjarv\Downloads\3710Proj1v2\Client\obj\Debug\Client.ClientGUI.resources
+C:\Users\Tjarv\Downloads\3710Proj1v2\Client\obj\Debug\Client.Form1.resources
+C:\Users\Tjarv\Downloads\3710Proj1v2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
